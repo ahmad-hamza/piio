@@ -2,7 +2,7 @@
 ## PiiO HAT
 
 
-**PiiO Raspberry-PI hat exapnsion board. **
+**PiiO Raspberry-PI hat exapnsion board**
 
 ![kicad](https://user-images.githubusercontent.com/58411599/109783149-57d89780-7c12-11eb-9fc4-cb6349e3340b.jpg)
 
