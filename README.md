@@ -9,6 +9,8 @@
 The board expands RPI capabilities with:
 * 24-GPIO pins with 5V~24V selectable level with protection
 * up to 6-UART ports
+* UP to 2-CAN bus orts
+* Up to 6-RS485 port signals 
 * up-to 6-SPI ports
 * up to 6-I2C ports
 * up to 4-I2S ports 
@@ -20,9 +22,14 @@ The board expands RPI capabilities with:
 
 
 PiiO HAT is suitable for developing real-time interfaces with RPI for building applications like:
-* home / building automation controller
+* Home / building automation controller
 * Motor control
 * Industrail automation controllers 
 * power SMPS converters and Solar/Battery chargers and inverters 
+* ProAudio application using AES3 / EBU
+* industrial RS485 or CAN applications
 
+
+**Launching Crowd Fundign campign soon !!! stay tuned**
+Please register your email address here to get updates:
 
