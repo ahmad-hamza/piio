@@ -1,10 +1,10 @@
-![kicad](https://user-images.githubusercontent.com/58411599/109783149-57d89780-7c12-11eb-9fc4-cb6349e3340b.jpg)
+
 ## PiiO HAT
 
 
 PiiO is a Rasperry-PI hat exapnsion board. 
 
-![kicad](https://user-images.githubusercontent.com/58411599/109779420-99ffda00-7c0e-11eb-99df-7c1391a2ea9f.jpg)
+![kicad](https://user-images.githubusercontent.com/58411599/109783149-57d89780-7c12-11eb-9fc4-cb6349e3340b.jpg)
 
 The board expands RPI capabilities with:
 * 24-GPIO pins with 5V~24V selectable level with protection
