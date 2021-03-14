@@ -10,11 +10,11 @@ The idea behind PiiO is to have a single board expansion to implemnt any real-ti
 
 ### Features
 The board expands RPI capabilities with:
-* 24-GPIO pins with 5V~24V selectable level with protection
-* Up to 6-PWM/Timer real-time output
+* 24-GPIO pins with 5V level
+* Up to 6-PWM/Timer High resolution PWM output
 * up to 6-UART ports
 * UP to 2-CAN bus orts
-* Up to 6-RS485 port signals 
+* Up to 2-RS485 port signals 
 * up-to 6-SPI ports
 * up to 6-I2C ports
 * up to 4-I2S ports 
