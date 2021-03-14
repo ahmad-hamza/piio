@@ -8,6 +8,12 @@
 
 The idea behind PiiO is to have a single board expansion to implemnt any real-time interfcaing application without the need to buy different hardware for each application. This will allow for design and code reuse, i.e. the developer can use smae piece of code in many applications. this will reduce cost and effort and design time and hance ensures rapid prototypes and proof-of-concpts building.
 
+PiiO Hats can be stacked up to 8-Hats for further expansion.
+
+PiiO Hat is programmable via Python from Raspberry Pi side 
+
+PiiO Hat only uses one SPI port from Raspbeery Pi expansion header and does not interact with other pins 
+
 ### Features
 The board expands RPI capabilities with:
 * 24-GPIO pins with 5V level
