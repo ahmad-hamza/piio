@@ -14,6 +14,11 @@ PiiO Hat is programmable via micro-python with real time code blocks
 
 PiiO Hat is programmable via Python from Raspberry Pi side 
 
+PiiO is designed to be compatible with many Breakout boards 
+
+PiiO-T for IoT 
+PiiO-RT real time varient 
+
 PiiO Hat only uses one SPI port from Raspbeery Pi expansion header and does not interact with other pins 
 
 ### Features
