@@ -6,7 +6,7 @@
 
 ![kicad](https://user-images.githubusercontent.com/58411599/109783149-57d89780-7c12-11eb-9fc4-cb6349e3340b.jpg)
 
-The idea behind PiiO is to have a single board expansion to implemnt any real-time interfcaing application without the need to buy different hardware for each application. 
+The idea behind PiiO is to have a single board expansion to implemnt any real-time interfcaing application without the need to buy different hardware for each application. This will allow for design and code reuse, i.e. the developer can use smae piece of code in many applications. this will reduce cost and effort and design time and hance ensures rapid prototypes and proof-of-concpts building.
 
 ### Features
 The board expands RPI capabilities with:
