@@ -42,5 +42,6 @@ PiiO HAT is suitable for developing real-time interfaces with RPI for building a
 
 
 **Launching Crowd Fundign campign soon !!! stay tuned**
-Please register your email address here to get updates:
+
+Please register to get notified 
 
