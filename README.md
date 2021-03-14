@@ -8,6 +8,7 @@
 
 The idea behind PiiO is to have a single board expansion to implemnt any real-time interfcaing application without the need to buy different hardware for each application. 
 
+#### Features
 The board expands RPI capabilities with:
 * 24-GPIO pins with 5V~24V selectable level with protection
 * Up to 6-PWM/Timer real-time output
@@ -23,7 +24,7 @@ The board expands RPI capabilities with:
 * Supply current 5A to provide power for PI 
 
 
-
+#### Applications
 PiiO HAT is suitable for developing real-time interfaces with RPI for building applications like:
 * Motion controllers for CNC and 3D pronter 
 * Robotices application 
