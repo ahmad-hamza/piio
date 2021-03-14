@@ -43,13 +43,8 @@ PiiO HAT is suitable for developing real-time interfaces with RPI for building a
 
 **Launching Crowd Fundign campign soon !!! stay tuned**
 
-Please register to get notified 
-<a href="#" class="button big">Create Project</a>
 
-
-<a href="#" class="button">Post comment (link)</a>
-<input class="button" type="submit" value="Post comment (input)">
-<button class="button" type="submit">Post comment (button)</button>
+Please <a href="https://forms.gle/T51iPF2LUm4xhsgp7" class="button big">Register Here</a> to get notified 
 
 
 
