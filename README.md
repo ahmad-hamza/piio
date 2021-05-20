@@ -2,7 +2,8 @@
 ## Introduction
 
 PwRHAT is a power management HAT for raspberry PI to take care of proper wake-up, Reset, shutdown, or power-cycle RPI using input from Ethernet-WoL, HDMI-cec, IR-remote, Serial(UART/SPI), RS485/rs422/RS232, modbus, WiFi, Bluetooth/BLE. 
-As power management is important for: 
+
+Raspberry PI power management is important for: 
 
 - **Saving connected peripherals life:** shutting down Raspberry PI via software will NOT cut the power from connected peripherals such as flash/HDD drive, 4G/5G modem, etc. And for peripheral reliability and extended life it's safe to power down the connected peripheral when its not needed.
 
