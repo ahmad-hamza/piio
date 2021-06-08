@@ -19,7 +19,7 @@ Raspberry PI power management is important for:
 
 - **Remote power management:** In some IoT applications deployments as in agriculture, smart cities, industrial, etc. where you may not have physical access to the board to manually power-cycle  in case of software crash or malfunction
 
-Also as raspberry PI 5V input power is NOT a standard voltage except for USB powered devices, PwRHAT allows the developer to use Raspberry PI in wide application field deployments. By providing wide input voltage range for applications like : agriculture, automotive, marine, industrial-automation, home-automation, smart-cities, surveillance, computer vision, .. etc.
+Also as raspberry PI 5V input power is NOT a standard voltage except for USB powered devices, Raspower HAT allows the developer to use Raspberry PI in wide application field deployments. By providing wide input voltage range for applications like : agriculture, automotive, marine, industrial-automation, home-automation, smart-cities, surveillance, computer vision, .. etc.
 
 
 
@@ -35,25 +35,25 @@ Also as raspberry PI 5V input power is NOT a standard voltage except for USB pow
 
 ## Description
 
-PwRHAT controls raspberry PI power via a switch connected between the regulator and RPI 5V power input at the GPIO header pins. it also can initiate soft shutdown / wake-up / reset via RPI GPIO pins.
+Raspower controls raspberry PI power via a switch connected between the regulator and RPI 5V power input at the GPIO header pins. it also can initiate soft shutdown / wake-up / reset via RPI GPIO pins.
 
-To optimize the cost for specific needs so the users can customize the board to his needs, PwRHAT is compatible with Breakout boards for the following scenarios:
+To optimize the cost for specific needs so the users can customize the board to his needs, Raspower is compatible with Breakout boards for the following scenarios:
 
 
-- **Ethernet Wake-on-LAN (WoL):** connecting enc60j28 breakout board to PwRHAT adds extra RJ45 port make it possible  to bring raspberry PI out from power down state after receiving WoL magic packet 
+- **Ethernet Wake-on-LAN (WoL):** connecting enc60j28 breakout board to Raspower adds extra RJ45 port make it possible  to bring raspberry PI out from power down state after receiving WoL magic packet 
 
 	
 
-- **HDMI-cec:** developer can connect HDMI connector breakout to PwRHAT pins and configure it to respond to HDMI-cec bus commands.
+- **HDMI-cec:** developer can connect HDMI connector breakout to Raspower pins and configure it to respond to HDMI-cec bus commands.
 
-- **IR remote:** developer can connect IR receiver to PwRHAT and program the remote-control power button 
+- **IR remote:** developer can connect IR receiver to Raspower and program the remote-control power button 
 
-- **RTC:** PwRHAT implements internal real-time time-keeper RTC and can be scheduled to wake-up and shutdown RPI via simple script
+- **RTC:** Raspower HAT implements internal real-time time-keeper RTC and can be scheduled to wake-up and shutdown RPI via simple script
 
-- **UART:** PwRHAT has UART pins exposed for custom use. and It can used to connect transivers like RS485/rs422/RS232 and can decode MODBUS packets 
+- **UART:** Raspower has UART pins exposed for custom use. and It can used to connect transivers like RS485/rs422/RS232 and can decode MODBUS packets 
 
 - **GPIO:** In addition to general-perpose input pins specially designed to connect to mechanical buttons with protection and denouncing implemented 
 
-- **IoT:** PwRHAT also accepts IoT modules for WIFI, bluetooth/BLE.
+- **IoT:** Raspower board also accepts IoT modules for WIFI, bluetooth/BLE.
 
 
