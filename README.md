@@ -1,7 +1,15 @@
 ---
 ## Introduction
 
-PwRHAT is a power management HAT for raspberry PI to take care of proper wake-up, Reset, shutdown, or power-cycle RPI using input from Ethernet-WoL, HDMI-cec, IR-remote, Serial(UART/SPI), RS485/rs422/RS232, modbus, WiFi, Bluetooth/BLE. 
+Raspower board is a power management HAT for raspberry PI to take care of proper wake-up, Reset, shutdown, or power-cycle RPI using control signal from external sources as: 
+- Ethernet-WoL,
+- HDMI-cec,
+- IR-remote,
+- Serial(I2C/SPI),
+- RS485/RS422/RS232,
+- WiFi,
+- Bluetooth/BLE.
+
 
 Raspberry PI power management is important for: 
 
