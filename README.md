@@ -1,5 +1,5 @@
 ---
-![pwr](https://user-images.githubusercontent.com/58411599/122602465-2970b200-d073-11eb-85f8-3110b5a7f538.png)
+
 
 ## Description
 
