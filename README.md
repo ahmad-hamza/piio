@@ -6,7 +6,7 @@
 
 Raspower board is a power management HAT for raspberry PI to take care of proper power-on, power-off, wake-up, Reset, or power-cycle RPI using external control sources.
 
-![pwr](https://user-images.githubusercontent.com/58411599/122603997-8cfbdf00-d075-11eb-9d1e-07b57fe4ca53.png)
+
 
 To optimize the cost for specific application users can customize the board to their needs via connecting external breakouts for the following scenarios:
 
