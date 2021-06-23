@@ -11,8 +11,10 @@ PwRberry board is a power management HAT for raspberry PI to take care of proper
 \
 &nbsp;
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/58411599/123131621-251b0f00-d44e-11eb-9ba9-3fcc5851ea36.png" />
+</p>
 
-![](https://user-images.githubusercontent.com/58411599/123131621-251b0f00-d44e-11eb-9ba9-3fcc5851ea36.png)
 \
 &nbsp;
 \
@@ -30,7 +32,10 @@ To optimize the cost for specific application users can customize the board to t
 \
 &nbsp;
 
-![](https://user-images.githubusercontent.com/58411599/123131606-22201e80-d44e-11eb-8fef-258fe750e7a5.png)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/58411599/123131606-22201e80-d44e-11eb-8fef-258fe750e7a5.png" /> 
+</p>
+
 \
 &nbsp;
 \
@@ -43,7 +48,10 @@ To optimize the cost for specific application users can customize the board to t
 \
 &nbsp;
 
-![breakouts-ble](https://user-images.githubusercontent.com/58411599/123131591-1df40100-d44e-11eb-8ea5-66804fe1872c.png)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/58411599/123131591-1df40100-d44e-11eb-8ea5-66804fe1872c.png" /> 
+</p>
+
 \
 &nbsp;
 \
@@ -58,7 +66,9 @@ To optimize the cost for specific application users can customize the board to t
 \
 &nbsp;
 
-![breakouts-eth](https://user-images.githubusercontent.com/58411599/123131597-1fbdc480-d44e-11eb-9542-eba984727c35.png)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/58411599/123131597-1fbdc480-d44e-11eb-9542-eba984727c35.png" /> 
+</p>
 
 \
 &nbsp;
@@ -72,9 +82,10 @@ To optimize the cost for specific application users can customize the board to t
 \
 &nbsp;
 
-
-![breakouts-hdmi](https://user-images.githubusercontent.com/58411599/123131599-20565b00-d44e-11eb-995e-36625f8c4348.png)  
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/58411599/123131599-20565b00-d44e-11eb-995e-36625f8c4348.png" /> 
+</p>
+ 
 \
 &nbsp;
 \
@@ -87,8 +98,9 @@ To optimize the cost for specific application users can customize the board to t
 &nbsp;
 \
 &nbsp;
-
-![breakouts-ir](https://user-images.githubusercontent.com/58411599/123131605-21878800-d44e-11eb-8453-e4e9e5656e5a.png)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/58411599/123131605-21878800-d44e-11eb-8453-e4e9e5656e5a.png" /> 
+</p>
 
 \
 &nbsp;
