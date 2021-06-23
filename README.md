@@ -4,7 +4,7 @@
 
 ## Description
 
-PwRberry board is a power management HAT for raspberry PI to take care of proper power-on, power-off, wake-up, Reset, or power-cycle RPI using external control sources.
+PwRberry board is a power management HAT for raspberry PI to take care of proper power-on, power-off, wake-up, Reset, or power-cycle RPI using external control sources. It also provide 50Watt [5V, 10A] enough for power demanding peripherals such as external HDD 
 
 \
 &nbsp;
@@ -21,7 +21,7 @@ PwRberry board is a power management HAT for raspberry PI to take care of proper
 &nbsp;
 
 
-To optimize the cost for specific application users can customize the board to their needs via connecting external breakouts for the following scenarios:
+Developer can choose one of the following scenarios to control raspberry PI power:
 
 - **Power Button:** PwRberry allows the user to connect external switches to GPIO pins specially designed to connect to mechanical buttons with protection and denouncing implemented.
 
